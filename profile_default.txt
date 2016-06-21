@@ -1,0 +1,9 @@
+default
+0
+Keyboard+Mouse
+True
+0
+2
+148
+61
+255
